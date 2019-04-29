@@ -71,8 +71,11 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 ## Justin Torrance
 
 * [Node Server Tutorial]()
+  https://github.com/JustinTorrance/node-prework
 * [Annotated Express server file]()
+  https://github.com/JustinTorrance/notez-api/blob/justin-annotations/app.js
 * [Promise Practice Exercises]()
+  https://repl.it/@JTorrance/Promises-PreWork-Practice
 
 ## Kimberly Myers
 
